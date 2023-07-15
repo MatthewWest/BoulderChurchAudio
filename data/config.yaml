@@ -1,5 +1,4 @@
-name: Jacky Zhao
-enableToc: true
+name: Matthew West
 openToc: false
 enableLinkPreview: true
 enableLatex: true
@@ -18,12 +17,11 @@ search:
   operandApiKey: "REPLACE-WITH-YOUR-OPERAND-API-KEY"
   operandIndexId: "REPLACE-WITH-YOUR-OPERAND-INDEX-ID"
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  A website to explain the Boulder church audio system.
 page_title:
-  "🪴 Quartz 3.3"
+  "Boulder Church Audio"
 links:
-  - link_name: Twitter
-    link: https://twitter.com/_jzhao
-  - link_name: GitHub
-    link: https://github.com/jackyzha0
+  - link_name: Church Website
+    link: https://boulder.church
+  - link_name: Matt West's GitHub
+    link: https://github.com/MatthewWest
