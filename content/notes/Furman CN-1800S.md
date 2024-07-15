@@ -1,7 +1,3 @@
----
-title: "Furman CN-1800S"
----
-
 [User Manual](Church_Audio/manuals/pdf_CN-1800S_manual.pdf)
 
 Power conditioner & sequencer. We have one of these at the front-of-house audio console, and one in the primary back-of-house rack. This has been not working, according so we have been using the [[Furman P-8 Pro Series II]]

@@ -1,7 +1,3 @@
----
-title: "Shure PSM900 Transmitter P9T"
----
-
 [User Manual](PSM900_guide_en-US.pdf)
 
 These are wireless transmitters to drive audio on the In-Ear Monitor systems.

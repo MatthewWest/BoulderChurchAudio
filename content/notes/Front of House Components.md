@@ -1,14 +1,10 @@
----
-title: "Front of House Components"
----
-
 # Main Signal Path
-- [[notes/Sennheiser A1031U Antenna|Sennheiser A1031U Antenna]] (x2)
-- [[notes/Sennheiser ASA1 Antenna Splitter|Sennheiser ASA1 Antenna Splitter]]
+- [[Sennheiser A1031U Antenna]] (x2)
+- [[Sennheiser ASA1 Antenna Splitter]]
 - [[Sennheiser EW 100 G3]] (x1)
 - [[Sennheiser EW 300 G3]] (x7)
-- [[notes/Allen & Heath AR84]]
-- [[notes/Allen & Heath GLD-112]]
+- [[Allen and Heath AR84]]
+- [[Allen and Heath SQ-6]]
 - [[Shure DFR22]]
 
 # Mother's Room System
@@ -16,8 +12,6 @@ title: "Front of House Components"
 - [[Renkus-Heinz PNX61]]
 
 # IEM System
-- [[M-Dante Option Card]]
-- [[Aviom AN-16 - O]]
 - [[Furman CN-1800S]]
 
 # Power
@@ -25,6 +19,3 @@ title: "Front of House Components"
 
 # Unused Components
 - [[Williams Sound PPA T45]]
-
-# See Also
-- [[notes/Back of House Components|Back of House Components]]

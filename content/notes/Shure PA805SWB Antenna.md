@@ -1,7 +1,3 @@
----
-title: "Shure PA805SWB Antenna"
----
-
 [User Manual](PA805SWB_guide_en-US.pdf)
 
 Antenna to drive the IEM packs.
